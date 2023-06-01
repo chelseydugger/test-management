@@ -1,0 +1,14 @@
+testng-curl/*.png
+testng-curl/target/
+testng-curl/local.log
+testng-curl/.idea
+testng-curl/*.iml
+testng-curl/.gradle
+testng-curl/build/
+testng-curl/.DS_Store
+testng-curl/gradle
+testng-curl/gradlew
+testng-curl/gradlew.bat
+testng-curl/logs
+testng-curl/browserstack.err
+
