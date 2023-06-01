@@ -12,3 +12,7 @@ testng-curl/gradlew.bat
 testng-curl/logs
 testng-curl/browserstack.err
 
+testng-to-tm/.classpath
+testng-to-tm/.project
+testng-to-tm/.settings/
+testng-to-tm/target/
