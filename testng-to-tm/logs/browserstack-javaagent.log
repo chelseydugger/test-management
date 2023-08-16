@@ -1,0 +1,7 @@
+16:25:47.749 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+16:25:47.754 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:25:48.009 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\chelsey.dugger\GitKraken\Tricentis Test Management\test-management\testng-to-tm\browserstack.yml
+16:25:48.079 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:25:48.088 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+16:25:48.458 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:25:51.787 [main] INFO  c.b.config.BrowserStackConfig - ERROR
